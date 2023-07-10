@@ -1,10 +1,17 @@
 
+#ifndef NUMBER_H_
+#define  NUMBER_H_
 
-class numberTest {
+using namespace std;
 
-    public:
-
-
+class NUMBER{
     private:
+         void numberTest(string name1, string name2)
+
+    public: 
+
+
 
 };
+
+#endif 

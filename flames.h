@@ -5,6 +5,7 @@
 class flames {
 
     public:
+        void flames(string name1, string name2);
         
 
     private:

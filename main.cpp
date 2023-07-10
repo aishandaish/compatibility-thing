@@ -26,18 +26,14 @@ int main(){
     cin >> testType;
 
     if (testType == 1){
-        
-
+         
     }
 
     else if (testType == 2){
 
 
     }
-    else {
-        return 1;
-
-    }
+    
 
 
 
